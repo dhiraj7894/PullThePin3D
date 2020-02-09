@@ -10,5 +10,6 @@ public class TagChange : MonoBehaviour
         {
             other.gameObject.tag = "ColorBalls";
         }
+        
     }
 }

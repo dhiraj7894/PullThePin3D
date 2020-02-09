@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ColorBalls
   - UnColorBalls
+  - Destory_balls
   layers:
   - Default
   - TransparentFX

@@ -20,7 +20,7 @@ public class Exploed : MonoBehaviour
     {
         if(collision.gameObject.tag == "ColorBalls")
         {
-            Invoke("Detonate", 0);
+            Invoke("Detonate", 0.2f);
             Destroy(gameObject, 0.2f);
         }
     }
